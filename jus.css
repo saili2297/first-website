@@ -1,0 +1,204 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+section {
+    width: 100%;
+}
+.bg-1 {
+    height: auto;
+    background-color: #3AAFA9;
+    width: 100%;
+    text-align: center;
+    
+}
+.main-text {
+    padding-top: 6rem;
+    padding-left: 1rem;
+    font-size: 3.2rem;
+    font-weight: bolder;
+    color: #17252A;
+}
+.btn {
+    background-color: #FEFFFF;
+    color: #2B787A;
+    border-radius: 0em;
+
+    margin-left: 1rem;
+    margin-bottom: 3rem;
+}
+.btn:hover {
+    background-color: #2B787A;
+    color: #FEFFFF;
+}
+.imp {
+    margin-bottom: 5rem;
+    margin-left: 5rem;
+
+}
+.bg-3 {
+    width: 100%;
+}
+.title {
+    text-align: center;
+    padding-top: 5rem;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #17252A;
+}
+img {
+    margin-top: 3.5rem;
+    max-width: 300px;
+    height: 220px;
+    margin-left: 3.5rem;
+    transition: transform .2s;
+    cursor: pointer;
+}
+img:hover {
+    transform: scale(1.2);
+}
+
+.name {
+    margin-top: 2rem;
+    margin-left: 3.4rem;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #17252A;
+    transition: transform .4s;
+    cursor: pointer;
+}
+.name:hover {
+    transform: scale(1.2);
+}
+.description {
+    margin-top: 2rem;
+    margin-left: 3.8rem;
+    padding-bottom: 3rem;
+    text-align: inherit;
+    color: #2B787A;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.bg-4 {
+    height: auto;
+    width: 100%;
+    background-color: #DEF2F1;
+}
+.review {
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #17252A;
+}
+.about {
+    padding-top: 2rem;
+    margin-left: 4rem;
+}
+.rev {
+    font-size: 16px;
+    font-weight: bolder;
+    color: #17252A;
+    margin-left: 4rem;
+}
+.comp {
+    font-size: 16px;
+    font-weight: bolder;
+    color: #17252A;
+    margin-left: 4rem;
+}
+.via {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #2B787A;
+    margin-left: 4rem;
+    padding-bottom: 2rem;
+}
+.blog {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #17252A;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+.card {
+    display: inline-flex;
+    margin-left: 8.5rem;
+    border-radius: 12px;
+    margin-bottom: 6rem;
+    transition: transform .2s;
+    cursor: pointer;
+}
+.card:hover {
+    transform: scale(1.2);
+}
+.card-img-top {
+    width: 250px;
+    height: 170px;
+    padding: 0;
+    margin-top: 0.1rem;
+    margin-left: 0.1rem;
+    border-radius: 12px;
+}
+.card-text {
+    font-weight: bolder;
+    color: #17252A;
+}
+.by {
+    font-weight: bolder;
+}
+.bg-6 {
+    height: auto;
+    background-color: #2B787A;
+    color: #FEFFFF;
+}
+.high {
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 1.7rem;
+    font-weight: bolder;
+}
+.btn:hover {
+    background-color: #2B787A;
+    color: #FEFFFF;
+}
+.new {
+    padding-top: 3rem;
+    color: #3AAFA9;
+    
+}
+.text {
+    padding-top: 3rem;
+    font-weight: bold;
+    text-align: justify;
+}
+.social {
+    
+    color: #3AAFA9;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.fa {
+    padding-right: 1rem;
+}
+.second {
+    font-size: 18px;
+    font-weight: bolder;
+    padding-top: 4rem;
+}
+.list {
+    list-style-type: none;
+    padding: 1rem; 
+}
+.sub {
+    font-size: 15px;
+    padding-bottom: 1rem;
+}
+.final {
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    font-size: 18px;
+    font-weight: bolder;
+}
